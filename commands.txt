@@ -1,0 +1,8 @@
+git clone
+git init
+git status
+git add .
+git commit -m 
+git push
+Remove: git rm -r 
+Rename: git mv oldname newname
